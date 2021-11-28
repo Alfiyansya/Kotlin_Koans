@@ -11,6 +11,3 @@ You can work with Kotlin Koans in one of the following ways:
 - You can solve the tasks right inside IntelliJ IDEA or Android Studio by
 [installing the EduTools plugin](https://www.jetbrains.com/help/education/install-edutools-plugin.html?section=IntelliJ%20IDEA)
 and [choosing Kotlin Koans course](https://www.jetbrains.com/help/education/learner-start-guide.html?section=Kotlin%20Koans).
-
-You don't need this project if you want to solve the tasks. Install the educational plugin or do it online.
-This project contains the task content, so if you want to contribute any changes to the existing tasks or new tasks, please submit new pull request.
